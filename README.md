@@ -1,1 +1,1 @@
-# Detecting-Depression-through-Tweets
+# Detecting Depression through Tweets
